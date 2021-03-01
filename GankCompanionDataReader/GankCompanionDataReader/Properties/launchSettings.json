@@ -2,7 +2,7 @@
   "profiles": {
     "PRODUCTION": {
       "commandName": "Executable",
-      "executablePath": "C:\\Users\\Alexis\\Documents\\DeveloppmentProjects\\ProjetsPersonnel\\albiongankcompanion-datareader\\GankCompanionDataReader\\GankCompanionDataReader\\bin\\Debug\\netcoreapp3.1\\GankCompanionDataReader.exe",
+      "executablePath": "C:\\Users\\Alexis\\Documents\\DeveloppmentProjects\\ProjetsPersonnel\\albion-data-reader\\GankCompanionDataReader\\\\GankCompanionDataReader\\\\bin\\\\Debug\\\\netcoreapp3.1\\\\GankCompanionDataReader.exe",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production",
         "ENDPOINT_URL": "https://gankcompanion.azurewebsites.net/Party"
@@ -10,7 +10,7 @@
     },
     "DEVELOPMENT": {
       "commandName": "Executable",
-      "executablePath": "C:\\Users\\Alexis\\Documents\\DeveloppmentProjects\\ProjetsPersonnel\\albiongankcompanion-datareader\\GankCompanionDataReader\\GankCompanionDataReader\\bin\\Debug\\netcoreapp3.1\\GankCompanionDataReader.exe",
+      "executablePath": "C:\\Users\\Alexis\\Documents\\DeveloppmentProjects\\ProjetsPersonnel\\albion-data-reader\\GankCompanionDataReader\\\\GankCompanionDataReader\\\\bin\\\\Debug\\\\netcoreapp3.1\\\\GankCompanionDataReader.exe",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ENDPOINT_URL": "https://localhost:44331/Party"
